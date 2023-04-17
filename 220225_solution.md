@@ -51,8 +51,7 @@ I pasted the names of all those given 7 string names in this command one by one 
 hence from here i found out that the password to the fourth.zip would be "eleven.txt"
 
 ```
-%%% Replace this with the 2nd challenge answer %%%
-```
+eleven.txt```
 ./Lamp_Stack2/1/5/0/3/strings.txt
 8dc2evcCSSc4kUy (password)
 
